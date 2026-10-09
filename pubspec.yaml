@@ -43,12 +43,12 @@ dev_dependencies:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/logo.png"
+  image_path: "assets/icon/app_icon.png"
   min_sdk_android: 21
 
   web:
     generate: true
-    image_path: "assets/logo.png"
+    image_path: "assets/icon/app_icon.png"
     background_color: "#0F172A"
     theme_color: "#0F172A"
 
