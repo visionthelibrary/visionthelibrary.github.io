@@ -1,6 +1,6 @@
 {
-    "name": "vision_the_library_new",
-    "short_name": "vision_the_library_new",
+    "name": "Vision The Library",
+    "short_name": "Vision Library",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
