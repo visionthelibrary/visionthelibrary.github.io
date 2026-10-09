@@ -1,0 +1,53 @@
+name: vision_the_library
+
+description: "Vision The Library"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.1
+  animated_text_kit: ^4.2.2
+
+  firebase_core: ^4.12.1
+  cloud_firestore: ^6.7.1
+  firebase_auth: ^6.7.0
+
+  geolocator: ^13.0.2
+
+  excel: ^4.0.6
+  pdf: ^3.12.0
+  printing: ^5.14.3
+
+  shared_preferences: ^2.5.5
+  share_plus: ^13.3.0
+  path_provider: ^2.1.5
+
+  url_launcher: ^6.3.2
+  font_awesome_flutter: ^11.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/app_icon.png

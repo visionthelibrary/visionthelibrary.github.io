@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206476989700",
+    "project_id": "vision-the-library",
+    "storage_bucket": "vision-the-library.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206476989700:android:d50502c723a03c44336c51",
+        "android_client_info": {
+          "package_name": "com.example.vision_the_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYxNZ-JRym7IadJC2332oIR1_u6X38ISw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
